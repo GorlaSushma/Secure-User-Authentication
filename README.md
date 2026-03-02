@@ -137,12 +137,3 @@ A minimal authentication interface with:
 
 This project is open-source and free to use for educational purposes.
 
----
-
-If you'd like, I can also provide:
-
-* A version with backend (Node.js + Express)
-* A Firebase authentication version
-* A React version
-* A version with proper validation and UI enhancements
-
